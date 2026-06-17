@@ -1,0 +1,7 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "aicarouseldesign"
+pages_build_output_dir = "out"
+
+[vars]
+NEXT_PUBLIC_APP_DOMAIN = "aicarouseldesign.com"
+NEXT_PUBLIC_APP_URL = "https://app.aicarouseldesign.com"

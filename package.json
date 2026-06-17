@@ -7,6 +7,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "pages:deploy": "next build && npx wrangler pages deploy out",
     "lint": "eslint"
   },
   "dependencies": {
